@@ -102,6 +102,9 @@ An IoT-based smart trash can system powered by **ESP32**, integrated with **Blyn
 
 ![Circuit Diagram](./circuit_diagram.jpg)
 
+![Blynk App](./blynk_app.jpg)
+
+
 👉 **[View the Full Code Here](https://github.com/ZiyadAzzaz/IOT-Smart-Bin/blob/main/Smart_Bin.cpp)**
 
 ---
